@@ -1,0 +1,78 @@
+.fontStyle{
+    font-family: Arial, Helvetica, sans-serif !important;
+  }
+.formbody{
+    justify-content: center;
+	/*background-color: #cccccc;
+	background-image: url("http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur02.jpg");*/
+}
+#registercontainer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+	width: 50%;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12);
+}
+.register-div{
+	color: white;
+    background-color: #551a8b;
+    text-align: center;
+    padding: 3%;
+}
+#registercontainer .registerTitle{
+    font-size: 22px;
+}
+.form-div{
+	background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+	width: 60%;
+}
+#input-control{
+	border-radius: 6px;
+	margin: 20px;
+	width: 82%;
+	justify-content: center;
+	padding: 15px 15px;
+	font-size: 18px;
+}
+#button{
+	background-color: #551a8b;
+	border-radius: 2px;
+    color: #fff;
+    font-size: 20px;
+    padding: 12px;
+    border-color: #fff;
+}
+.error_msg {
+    color: #ff0000;
+    text-align: center;
+    margin: 20px;
+}
+.buttonAlign{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.error-div{
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.success-msg{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 20px;
+}

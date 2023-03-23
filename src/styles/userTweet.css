@@ -1,0 +1,90 @@
+.sessionExpiredMsg{
+    margin-right: auto;
+    margin-left: auto;
+    width: 56%;
+    margin-top: 3%;
+    font-size: 22px;
+}
+.homeDiv{
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 5%;
+	width: 60%;
+    display: inline-flex;
+}
+.avatar{
+    display: inline-block;
+    flex-direction: column;
+}
+.tweetDiv{
+    display: inline-block;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    padding: 1% 2%;
+}
+.userTweetDiv{
+    padding: 2%;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12);
+    display: inline-flex;
+    width: 78%;
+}
+.avatarIcon{
+    display: inline-flex;
+}
+.infoDiv{
+    display: inline-flex;
+    flex-direction: column;
+    width: 100%;
+}
+.infoDiv p{
+    margin: 10px 20px 20px 20px;
+}
+.tweetDesText{
+    border-color: #000000;
+    font-size: 16px;
+}
+.tweetListDiv{
+    display: inline-flex;
+    flex-direction: column;
+    width: 82%;
+}
+.updateTweetForm{
+    margin: 0px 20px 20px 20px;
+}
+.postBtn{
+    text-align: right;
+    padding-right: 5%;
+    padding-top: 2%;
+}
+.userAllTweetDiv{
+    padding: 2%;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12);
+    display: inline-flex;
+    margin: 4% 0% 4% 4%;
+    width: 92%;
+}
+.allTweetDes{
+    margin: 0px 10px 10px 20px;
+}
+.userAllCommentDiv{
+    padding: 2%;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12);
+    display: inline-flex;
+    margin: 4% 0% 4% 4%;
+    float: right;
+    width: 80%;
+}
+.tweetLinkDiv{
+    text-decoration: none;
+    color: #000000;
+}
+#enterbutton{
+    border: none;
+    padding: 6px;
+    background-color: #551a8b;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 4px;
+}
